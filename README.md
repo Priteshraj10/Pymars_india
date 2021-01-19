@@ -4,6 +4,7 @@ It takes an integer as an input and prints it square.
 ## Installation
 ```pip install pymars_india```
 
+
 ## How to use it?
 Open terminal and type square and then input the integer
 
