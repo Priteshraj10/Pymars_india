@@ -15,21 +15,22 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/Priteshraj10/Pymars_india",
-    author="Udit Vashisht",
-    author_email="admin@saralgyaan.com",
+    author="Pritesh Raj",
+    author_email="priteshraj41@gmail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
     ],
-    packages=["square"],
+    packages=["Pymars_india"],
     include_package_data=True,
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "square=square.__main__:main",
+            "Pymars_india=Pymars_india.__main__:main",
         ]
     },
 )
