@@ -9,8 +9,6 @@ India's first interplanetary mission into the Martian orbit.It has provided an o
 ## Installation
 ```pip install pymars_india```
 
-## How to use it?
-Open terminal and type square and then input the integer
 
 ## License
 

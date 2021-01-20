@@ -1,6 +1,9 @@
 def main():
-    "Welcome to pymars the new version"
+    "new version being updated"
     print("Welcome to Pymars_india")
+
+    # logic and code need to be added
+
 
 
 if __name__ == '__main__':
