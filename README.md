@@ -1,7 +1,7 @@
 # Pymars_india
 India's first interplanetary mission into the Martian orbit.It has provided an overwhelming amount of data back to ISRO with the Mars Colour Camera (MCC) onboard which the orbiter had snapped 980+ images and prepared the Mars Atlas.
 
-![image](https://github.com/Priteshraj10/Pymars_india/blob/master/files/mars-logo-title.png)
+![alt text](https://github.com/Priteshraj10/Pymars_india/blob/master/files/mars-logo-title.png)
 
 [![Python](https://img.shields.io/pypi/pyversions/pymars_india.svg?style=plastic)](https://badge.fury.io/py/pymars_india)
 
