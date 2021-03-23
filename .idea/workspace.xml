@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../QuadTree.ai/face-mask-detector" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -70,13 +70,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1611053814304" />
-    <state x="392" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611055397913">
+    <state x="392" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611142233989">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="392" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1611055397913" />
-    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1611053809723">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="392" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1611142233989" />
+    <state x="2550" y="145" key="FileChooserDialogImpl" timestamp="1611602092713">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="2550" y="145" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611602092713" />
     <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611053809723" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1611053836769">
       <screen x="0" y="0" width="1280" height="680" />
