@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="Pymars_india",
-    version="1.0.2",
+    version="1.0.3",
     description="Mars orbital mission",
     long_description=README,
     long_description_content_type="text/markdown",
